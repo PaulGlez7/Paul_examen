@@ -1,0 +1,5 @@
+manager: 25,000
+IT full: 30,000
+developer junior: 15,000
+empleado piso: 8,000
+CEO: 90,000
